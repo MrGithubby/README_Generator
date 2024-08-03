@@ -33,6 +33,8 @@ node index.js
 
 You will be prompted to answer several questions about your project, such as the project title, description, installation instructions, usage information, contribution guidelines, test instructions, and licensing. After answering all the questions, a `README.md` file will be generated in the project directory.
 
+[Check out the interactive demo](https://drive.google.com/file/d/1ipkgtXHBRDgK30lATibHld688EzdlnSf/view)
+
 ### Example
 
 \`\`\`bash
